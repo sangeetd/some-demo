@@ -1,1 +1,2 @@
 Cloned in git-demo-clone
+git reset --soft hashcode to reset
