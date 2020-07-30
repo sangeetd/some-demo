@@ -1,7 +1,1 @@
-Cloned in git-demo-clone
-<<<<<<< HEAD
-git pull done from main git local repo
-git pull done from secondary local repo
-=======
-git reset --soft hashcode to reset
->>>>>>> 87b8a9cf6f05bf31ab913f54b34fd1164460395f
+changed...
