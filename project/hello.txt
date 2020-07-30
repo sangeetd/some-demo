@@ -1,2 +1,3 @@
 Cloned in git-demo-clone
 git pull done from main git local repo
+git pull done from secondary local repo
